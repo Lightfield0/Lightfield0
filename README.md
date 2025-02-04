@@ -1,5 +1,27 @@
-# About Me:
-🔭 I’m currently working on improving my skills in Python, C/C++, HTML and CSS. I'm a student at Mersin University studying Information Technologies. I was in the top 4% out of over 3 million students.<br><br> I’m looking to collaborate on projects to gain more experience and practice my skills. If you have an interesting or challenging project and need help, I'm here! You can count on me to do my best.<br><br>🤝 I’m looking for help with finding new opportunities to apply my programming knowledge and contribute to impactful projects. <br><br>🌱 I’m currently learning web development frameworks like Django and Flask to build full-stack applications. I'm also interested in machine learning and data science.<br><br>💬 Ask me about anything related to Python, object-oriented programming, algorithms and data structures! I enjoy discussing code.
+# About Me
+Hello, I'm Mehmet Furkan Güneş. I am a software developer specializing in mobile-focused solutions. Throughout my experience, I have worked on data fetching, desktop applications, website design, automation projects, and mobile app development with React Native. I have developed scalable web solutions using frameworks like Django and similar web frameworks.
+
+I have deep knowledge of databases such as SQL Server, MySQL, MongoDB, and SQLite, and I am experienced in data analysis and visualization. As a freelancer on the Bionluk platform, I have successfully completed projects by providing custom software solutions to my clients.
+
+# Current Status
+🔭 I'm currently working on improving my skills in Python, C/C++, HTML and CSS. I'm a student at Mersin University studying Information Technologies. I was in the top 4% out of over 3 million students.
+
+🌱 I'm currently learning web development frameworks like Django and Flask to build full-stack applications. I'm also interested in machine learning and data science.
+
+## Skills & Expertise
+💬 Ask me about:
+- Python and Object-Oriented Programming
+- Mobile app development with React Native
+- Database management (SQL Server, MySQL, MongoDB, SQLite)
+- Web development with Django
+- Data analysis and visualization
+- Automation solutions
+
+# Collaboration
+🤝 I'm looking to collaborate on projects to gain more experience and practice my skills. If you have an interesting or challenging project and need help, I'm here! I'm always open to learning and passionate about working with innovative technologies.
+
+## Contact
+If you're looking for an expert in data management, web/mobile application development, or automation, feel free to get in touch!
 
 
 ## 🌐 Socials:
