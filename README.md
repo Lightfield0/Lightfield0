@@ -24,10 +24,10 @@ EventFlow is a B2B SaaS platform that brings venue management, ticketing, paymen
 
 Competitors solve these problems separately. EventFlow is end-to-end.
 
-**Stack:** Django · React Native · PostgreSQL · Celery · Docker · PayTR
+**Stack:** Django · Next.js · PostgreSQL · Celery · Docker
 
 ![Status](https://img.shields.io/badge/Status-In_Development-302b63?style=flat-square)
-![Mobile](https://img.shields.io/badge/Mobile-iOS_%26_Android-24243e?style=flat-square&logo=react&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Web-24243e?style=flat-square&logo=google-chrome&logoColor=white)
 
 ---
 
@@ -50,6 +50,7 @@ My software agency. Custom solutions for businesses that need more than a templa
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
