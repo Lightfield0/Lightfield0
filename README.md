@@ -20,7 +20,7 @@ I live in Mersin. I see the problem every day — event venues take reservations
 
 So I'm fixing it.
 
-EventFlow is a B2B SaaS platform that brings venue management, ticketing, payment tracking, and business intelligence into a single ecosystem. Instagram DM booking and Gemini-powered customer communication built on top.
+EventFlow is a B2B SaaS platform that brings venue management, ticketing, payment tracking, and business intelligence into a single ecosystem. Instagram DM booking built on top.
 
 Competitors solve these problems separately. EventFlow is end-to-end.
 
