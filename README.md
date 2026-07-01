@@ -1,6 +1,6 @@
 <!-- ────────────────────────────  HEADER  ──────────────────────────── -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mehmet%20Furkan%20G%C3%BCne%C5%9F&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20Vectorium%20Technology%20%C2%B7%20Full-Stack%20%26%20Mobile%20Engineer%20%C2%B7%20%C4%B0stanbul&descAlignY=60&descSize=16&descColor=a8b2d8)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mehmet%20Furkan%20G%C3%BCne%C5%9F&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%40%20Vectorium%20Technology%20%C2%B7%20Full-Stack%20and%20Mobile%20Engineer%20%C2%B7%20%C4%B0stanbul&descAlignY=60&descSize=16&descColor=a8b2d8)
 
 <br/>
 
